@@ -1,0 +1,12 @@
+Date,2023-01-13 14:00:29.220869
+Name,Cristian
+FES number,FESF6C325
+Descripción,Valor esperado,Valor obtenido,Evaluación,% tolerancia
+ Continuidad,3.3V - 4.2V,2.245,Fuera del rango,1%
+S-BAT,1.65V - 2.1V,F,No aplica,0%
+Voltaje fijo,3.30V,F,No aplica,0%
+Voltaje fijo,3.3V,F,No aplica,0%
+Sin elevar,3.6V,F,No aplica,0%
+Sin elevar,1.7V - 1.9V,F,No aplica,0%
+Elevación Voltaje,170V,F,No aplica,0%
+PUMP,8.8V - 9.2V,F,No aplica,0%

@@ -1,0 +1,37 @@
+Testpoint,Descripción, Estado ,Valor esperado,Mìnimo esperado,Maximo esperado,Promedio FES,Promedio WF,Tolerancia estándar, Codigo (no cambiar)
+TP2,Battery,DESCONECTADO, Continuidad,3.3,4.2,-,-,1,A
+TP9,SBat,DESCONECTADO,S-BAT,1.65,2.1,-,-,5,F
+TP4,3.3V,DESCONECTADO,Voltaje fijo,-,-,3.30,3.30,5,B
+TP5,3V3,DESCONECTADO,Voltaje fijo,-,-,3.3,3.3,5,C
+TP6,High Voltage,DESCONECTADO,Sin elevar,-,-,3.6,3.6,5,D
+TP10,Pump,DESCONECTADO,Sin elevar,1.7,1.9,-,-,5,G
+TP6,High Voltage,CONECTADO,Elevación Voltaje,-,-,170,150,20,D
+TP10,Pump,CONECTADO,PUMP,8.8,9.2,-,-,5,G
+,,,,,,,
+Nombres, Sebastián,Cristian,Nicolás,Francisco,Belén,Other
+,,,,,,,
+Resistencia,Codigo (no cambiar),Valor,,,,,
+R8,A,237000,,,,,
+R9,B,3920,,,,,
+R12,C,237000,,,,,
+R13,D,1960,,,,,
+R16,E,9980,,,,,
+R17,F,5574,,,,,
+R20,G,0,,,,,
+R21,H,237000,,,,,
+R24,I,9970,,,,,
+R25,J,5583,,,,,
+R28,K,9980,,,,,
+R29,L,5583,,,,,
+R32,M,237000,,,,,
+R33,N,5600,,,,,
+R37,O,237000,,,,,
+R38,P,5600,,,,,
+R41,Q,216000,,,,,
+R42,R,1960,,,,,
+R45,S,10000,,,,,
+R46,T,3920,,,,,
+R49,U,2000000,,,,,
+R50,V,3920,,,,,
+R53,W,10000,,,,,
+R54,X,3868,,,,,
