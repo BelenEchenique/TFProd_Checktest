@@ -1,0 +1,15 @@
+[binaries]
+c = 'arm-none-eabi-gcc'
+cpp = 'arm-none-eabi-g++'
+gdb = 'arm-none-eabi-gdb'
+ar = 'arm-none-eabi-ar'
+strip = 'arm-none-eabi-strip'
+objcopy = 'arm-none-eabi-objcopy'
+
+[host_machine]
+system = 'none'
+cpu_family = 'arm'
+cpu = 'cortex-m0'
+endian = 'little'
+
+[properties]
